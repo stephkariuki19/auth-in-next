@@ -1,0 +1,5 @@
+npm install next-auth - install next-auth
+npm install prisma --save-dev
+npx prisma migrate dev --name init
+npm i --save-dev @types/bcrypt - to add bcrypt
+to set strong password use openssl rand -hex 32
